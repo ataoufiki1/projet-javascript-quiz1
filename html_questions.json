@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Quand a débuté la Seconde Guerre mondiale?",
+    "answer_1": "1939 ",
+    "answer_2": "1941",
+    "answer_3": "1944",
+    "answer_4": "1946",
+    "right_answer": "1939"
+  },
+  {
+    "title": "Qui était l'allié principal de l'Allemagne pendant la guerre?",
+    "answer_1": "La France",
+    "answer_2": " L'Italie",
+    "answer_3": "Le Japon",
+    "answer_4": " L'Union soviétique",
+    "right_answer": "L'Italie"
+  },
+  {
+    "title": "Qui était l'allié principal des États-Unis pendant la guerre?",
+    "answer_1": "Le Royaume-Uni",
+    "answer_2": "La France",
+    "answer_3": "L'Union soviétique",
+    "answer_4": "Le Japon",
+    "right_answer": "Le Royaume-Uni"
+  },
+  {
+    "title": " Qui était le leader de l'Union soviétique pendant la guerre?",
+    "answer_1": "Joseph Staline",
+    "answer_2": "Adolf Hitler",
+    "answer_3": "Franklin D. Roosevelt",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "Benito Mussolini"
+  },
+  {
+    "title": "Qui était le leader de l'Allemagne pendant la guerre?",
+    "answer_1": "Joseph Staline",
+    "answer_2": "Winston Churchill",
+    "answer_3": "Franklin D. Roosevelt",
+    "answer_4": "Adolf Hitler",
+    "right_answer": "Adolf Hitler"
+  },
+  {
+    "title": "Quelle était la principale raison pour laquelle les États-Unis ont rejoint la guerre?",
+    "answer_1": "L'agression de l'Allemagne en Europe",
+    "answer_2": "L'agression de l'Union soviétique en Europe",
+    "answer_3": "L'agression de l'Italie en Afrique du Nord",
+    "answer_4": " L'attaque de Pearl Harbor par le Japon",
+    "right_answer": "L'agression de l'Allemagne en Europe"
+  },
+  {
+    "title": "Quelle était la principale raison pour laquelle l'Union soviétique a rejoint la guerre?",
+    "answer_1": "L'agression de l'Allemagne en Europe",
+    "answer_2": "L'agression de l'Union soviétique en Asie",
+    "answer_3": "L'agression de l'Italie en Afrique du Nord",
+    "answer_4": "L'attaque de Pearl Harbor par le Japon",
+    "right_answer": "L'agression de l'Allemagne en Europe"
+  },
+  {
+    "title": "Quel était le principal objectif de l'opération Overlord, également connue sous le nom de débarquement de Normandie?",
+    "answer_1": "Envahir l'Allemagne par le sud",
+    "answer_2": "Envahir l'Union soviétique par le nord",
+    "answer_3": "Débarquer en Italie",
+    "answer_4": "Débarquer en Normandie pour libérer la France",
+    "right_answer": "Envahir l'Allemagne par le sud"
+  },
+  {
+    "title": "Quel était le principal objectif de l'opération Barbarossa, également connue sous le nom de l'invasion de l'Union soviétique par l'Allemagne?",
+    "answer_1": "Envahir l'Allemagne par le sud",
+    "answer_2": "Envahir l'Union soviétique par le nord",
+    "answer_3": " Débarquer en Italie",
+    "answer_4": "Débarquer en Normandie pour libérer la France",
+    "right_answer": "Envahir l'Union soviétique par le nord"
+  }
+]
